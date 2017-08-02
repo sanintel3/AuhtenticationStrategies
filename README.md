@@ -1,1 +1,1 @@
-![alt text](./oAuth.png "Title")
+![alt text](./oAuth.jpg "Title")
